@@ -57,6 +57,3 @@ The calculator is for research communication and reproducibility. It is not vali
 ## Data availability
 
 Only aggregate figure/table outputs are provided. Original cohort-level source data must be obtained through the relevant cohort data-access mechanisms.
-## Submission asset source
-
-The current figure and table assets were refreshed from the `投稿2` Word files: `Main Tables and Figure.docx` and `supplementary_materials.docx`. Only extracted figure images and CSV table summaries are included in this repository; the Word files themselves and raw cohort data are not uploaded.
