@@ -1,0 +1,8 @@
+﻿feature,mean_absolute_shap_probability,status,note
+kl_landmark,0.112,Computed for secondary random-forest interpretability benchmark,SHAP values are on the probability scale; this model is not the deployable model.
+pain_landmark_0_10,0.101,Computed for secondary random-forest interpretability benchmark,SHAP values are on the probability scale; this model is not the deployable model.
+age,0.037,Computed for secondary random-forest interpretability benchmark,SHAP values are on the probability scale; this model is not the deployable model.
+pain_change_0_10,0.022,Computed for secondary random-forest interpretability benchmark,SHAP values are on the probability scale; this model is not the deployable model.
+kl_change,0.019,Computed for secondary random-forest interpretability benchmark,SHAP values are on the probability scale; this model is not the deployable model.
+female,0.009,Computed for secondary random-forest interpretability benchmark,SHAP values are on the probability scale; this model is not the deployable model.
+right_knee,0.006,Computed for secondary random-forest interpretability benchmark,SHAP values are on the probability scale; this model is not the deployable model.
